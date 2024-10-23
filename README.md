@@ -25,7 +25,7 @@ This approach allows us to be frugal by not training a high resolution model on 
 ## Get started
 
 Before running the notebooks, create a python environement of your choice with python 3.8.18. You can then install the requirements by running:
-```
+```bash
 pip install -r requirements.txt
 ```
 
